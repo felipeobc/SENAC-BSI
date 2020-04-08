@@ -11,7 +11,7 @@ public class Exercicio02 {
     public static void main(String[] args) {
         //a
         Scanner teclado = new Scanner(System.in);
-        int [][] Matriz = new int[2][2];
+        int [][] Matriz = new int[4][4];
         int soma=0;
 
         for(int i =0; i<Matriz.length; i++){
